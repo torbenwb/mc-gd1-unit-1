@@ -1,4 +1,4 @@
-# mc-gd1-unit-1
+# Mastery Coding Game Development 1 - Unit 1 Project
 An educational project used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
 
 <div display=flex flexDirection=row justifyContent=center> 
